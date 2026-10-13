@@ -1,0 +1,25 @@
+{
+  "name": "lendflow",
+  "displayName": "Lendflow",
+  "version": "1.0.0",
+  "description": "Work with Lendflow applications, offers, placements, funders and workflows from Cursor.",
+  "author": {
+    "name": "Lendflow"
+  },
+  "homepage": "https://lendflow.com",
+  "repository": "https://github.com/lendflow-public/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "lendflow",
+    "lending",
+    "mcp"
+  ],
+  "category": "integrations",
+  "tags": [
+    "lendflow",
+    "lending",
+    "mcp"
+  ],
+  "mcpServers": "./mcp.json"
+}
