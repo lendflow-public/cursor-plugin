@@ -1,0 +1,17 @@
+{
+  "name": "lendflow",
+  "owner": {
+    "name": "Lendflow"
+  },
+  "metadata": {
+    "description": "Lendflow plugins for Cursor",
+    "pluginRoot": "plugins"
+  },
+  "plugins": [
+    {
+      "name": "lendflow",
+      "source": "lendflow",
+      "description": "Work with Lendflow applications, offers, placements, funders and workflows from Cursor."
+    }
+  ]
+}
