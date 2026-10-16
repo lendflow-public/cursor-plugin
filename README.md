@@ -2,7 +2,7 @@
 
 Cursor marketplace for the [Lendflow](https://lendflow.com) plugin. The plugin connects agents to Lendflow's remote MCP server so they can work with applications, offers, placements, funders, and workflows as the signed-in Lendflow user.
 
-The installable plugin is [`plugins/lendflow`](plugins/lendflow).
+The installable plugin is [`lendflow`](lendflow).
 
 ## Install
 

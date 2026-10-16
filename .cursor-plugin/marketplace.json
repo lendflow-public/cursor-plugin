@@ -4,8 +4,7 @@
     "name": "Lendflow"
   },
   "metadata": {
-    "description": "Lendflow plugins for Cursor",
-    "pluginRoot": "plugins"
+    "description": "Lendflow plugins for Cursor"
   },
   "plugins": [
     {
